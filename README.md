@@ -1,4 +1,4 @@
-# ![](https://github.com/fullstackfreelancer/ce_timeline/blob/master/ext_icon.png?raw=true) Timeline Content Element for TYPO3 CMS (ce_timeline)
+# ![](https://github.com/kohlercode/ce_timeline/blob/master/ext_icon.png?raw=true) Timeline Content Element for TYPO3 CMS (ce_timeline)
 
 This extension provides a new content element of type "Timeline" (ce_timeline) that contains inline records of different timeline entries. Please note that this is not a plugin and there are no records visible in any list view by default. Feel free to use the code or the extension as a basis for your own stuff.
 
@@ -68,10 +68,10 @@ lib.contentElement{
 Files you need to copy in order to overwrite them:
 
 Main Template file:
-https://github.com/fullstackfreelancer/ce_timeline/blob/master/Resources/Private/Templates/Timeline.html
+https://github.com/kohlercode/ce_timeline/blob/master/Resources/Private/Templates/Timeline.html
 
 Partials:
-https://github.com/fullstackfreelancer/ce_timeline/tree/master/Resources/Private/Partials
+https://github.com/kohlercode/ce_timeline/tree/master/Resources/Private/Partials
 
 ## Support & Service
 

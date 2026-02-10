@@ -8,7 +8,7 @@ Timeline Content Element
    ce_timeline
 
 :Package name:
-   fullstackfreelancer/ce_timeline
+   kohlercode/ce_timeline
 
 :Version:
    |release|

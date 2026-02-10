@@ -10,7 +10,7 @@ Quick start
 
    .. code-block:: bash
 
-      composer require fullstackfreelancer/ce_timeline
+      composer require kohlercode/ce_timeline
 
    .. rst-class:: horizbuttons-attention-m
 
