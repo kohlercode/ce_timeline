@@ -1,7 +1,7 @@
 {
     "name": "kohlercode/ce-timeline",
     "type": "typo3-cms-extension",
-    "version": "5.0.1",
+    "version": "5.1.0",
     "description": "CE Timeline - Enables a new content element of type Timeline",
     "homepage": "https://kohlercode.com",
     "authors": [
