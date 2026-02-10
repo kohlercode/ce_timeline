@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.1.0] - 2026-02-10
+### Added
+- Added TYPO3 v14 compatibility
+- Changed namespaces (clear all caches/autoload after update!)
+
 ## [5.0.2] - 2025-05-25
 ### Added
 - Fixed namespace path in Domain/Model/Entry.php
