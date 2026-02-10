@@ -48,9 +48,6 @@
         "chronologisch",
         "chronologic"
     ],
-    "replace": {
-        "fullstackfreelancer/ce-timeline": "self.version"
-    },
     "extra": {
         "typo3/cms": {
             "extension-key": "ce_timeline"
