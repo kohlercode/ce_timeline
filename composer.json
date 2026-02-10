@@ -1,8 +1,8 @@
 {
-    "name": "fullstackfreelancer/ce-timeline",
+    "name": "kohlercode/ce-timeline",
     "type": "typo3-cms-extension",
     "version": "5.0.1",
-    "description": "Enables a new content element of type Timeline",
+    "description": "CE Timeline - Enables a new content element of type Timeline",
     "homepage": "https://kohlercode.com",
     "authors": [
         {
@@ -28,12 +28,12 @@
     ],
     "support": {
         "email": "simon@kohlercode.com",
-        "docs": "https://github.com/fullstackfreelancer/ce_timeline",
-        "issues": "https://github.com/fullstackfreelancer/ce_timeline/issues"
+        "docs": "https://github.com/kohlercode/ce_timeline",
+        "issues": "https://github.com/kohlercode/ce_timeline/issues"
     },
     "license": "GPL-3.0-or-later",
     "require": {
-        "typo3/cms-core": "^12.4.2 || ^13.4"
+        "typo3/cms-core": "^12.4.2 || ^14.1"
     },
     "keywords": [
         "TYPO3",
@@ -49,7 +49,7 @@
         "chronologic"
     ],
     "replace": {
-        "simonkoehler/ce-timeline": "self.version"
+        "kohlercode/ce-timeline": "self.version"
     },
     "extra": {
         "typo3/cms": {
