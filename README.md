@@ -15,7 +15,7 @@ This extension provides a new content element of type "Timeline" (ce_timeline) t
 <sup>*</sup> (the lightbox feature comes with its own, independent JavaScript!)
 
 ## Online DEMO and Screenshots
-https://kohlercode.com/products/typo3-extensions/timeline-extension
+https://kohlercode.com/products/typo3/extensions/timeline
 
 ## Websites that actually use the plugin
 - https://www.hwplus.ch/konzept
